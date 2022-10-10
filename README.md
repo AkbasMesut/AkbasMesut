@@ -29,7 +29,6 @@
    <a href="https://www.appium.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/865295b58d03aff31e8bfac8ea5e9c9689e3ad4673da380719a36afc8ddd6ea2/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3639382f302a41723764417254764c4947725273326e2e706e67" alt="Appium" width="65" height="35" data-canonical-src="https://miro.medium.com/max/698/0*Ar7dArTvLIGrRs2n.png"width="65" height="30"> </a> 
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a>
    </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-   <a href="https://maven.apache.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=maven" alt="maven" width="45" height="45"/></a>
 <a href="https://cucumber.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/320565?s=280&v=4" alt="cucumber" width="45" height="45"/></a>
 <a href="https://testng.org/doc/" target="_blank"><img src="https://blogs.perficient.com/files/2014/08/TestNG.png" alt="testng" width="45" height="45" /></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
