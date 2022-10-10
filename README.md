@@ -6,7 +6,7 @@
 
   I am eager to manual and automation test. 
  Even though I have had some opportunities to gain experience with Selenium Web driver and Cucumber Framework to execute User Interface test, API tests and Database validations. 
- I know there are a lot of work to be learnt. That' why I always try to enhance my kwoledge. 
+ I know there are a lot of work to be learnt.                 That' why I always try to enhance my knowledge. 
 
 <div align="center">
   
