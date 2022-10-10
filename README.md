@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Mesut
-
-Here are some ideas to get you started:
+        ### Hi there 👋, I'm Mesut
 
 - 🔭 I’m currently working on A101 Practicum
 - 🌱 I’m currently learning Appium 
