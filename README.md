@@ -12,7 +12,7 @@ I have more than 1 year of experience in manual and automation test. During this
 <p align="center">
 
  
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/mesut-akbas-sdet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mesut-akbas-sdet/" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/mesut-akbas-sdet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mesut-akbas-sdet/" height="30" width="40" /></a>
  
 
 <hr/>
