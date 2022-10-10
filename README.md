@@ -1,9 +1,3 @@
-          Hi there 👋, I'm Mesut
-
-- 🔭 I’m currently working on A101 Practicum
-- 🌱 I’m currently learning Appium 
-- 📫 How to reach me: Akbas_Mesut@outlook.com
-
 
 <h1 align="center">Hi there 👋 I'm Mesut</h1>
 <div align="center">
@@ -19,7 +13,7 @@ I have more than 1 year of experience in manual and automation test. During this
 
  
  <a href="https://www.linkedin.com/in/mesut-akbas-sdet/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:Akbas_Mesut@outlook.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> 
+  <a href="mailto:Akbas_Mesut@outlook.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=Outlook&logoColor=white"/></a> 
  
 
 <hr/>
