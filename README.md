@@ -4,7 +4,7 @@
  
 ### About Me:
 
-  I am eager to manual and automation test. 
+  I am eager to manual and automation testing. 
  Even though I have had some opportunities to gain experience with Selenium Web driver and Cucumber Framework to execute User Interface test, API tests and Database validations. 
  I know there are a lot of work to be learnt.               
                                            <b>  That' why I always try to enhance my knowledge. </b>
