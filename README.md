@@ -8,7 +8,7 @@ I have more than 1 year of experience in manual and automation test. During this
 
 <div align="center">
   
-   <h3 align="center">My Accounts:</h3>
+   <h3 align="center">Connect with me:</h3>
 <p align="center">
 
  
